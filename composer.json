@@ -1,0 +1,11 @@
+{
+  "name": "kyubantai/museum",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bastien Nivet",
+      "email": "bastien.nivet@inventhys.com"
+    }
+  ]
+}
